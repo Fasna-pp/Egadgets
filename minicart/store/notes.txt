@@ -1,0 +1,5 @@
+add products 
+view spicifa-flip-vertical
+view\ entire 
+update
+delete
